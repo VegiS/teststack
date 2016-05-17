@@ -327,38 +327,38 @@ $ git clean -dfx; git reset --hard
 
 ```
 ├── config
-│   ├── cucumber.yml
-│   ├── env.rb
-│   ├── mobile
-│   │   ├── android
-│   │   └── ios
-│   └── hook.rb
+│   ├── cucumber.yml
+│   ├── env.rb
+│   ├── mobile
+│   │   ├── android
+│   │   └── ios
+│   └── hook.rb
 ├── data
-│   └── fixtures
+│   └── fixtures
 ├── helpers
 ├── features
-│   ├── api
-│   └── app
-│   └── web
+│   ├── api
+│   └── app
+│   └── web
 ├── pages
-│   ├── api
-│   ├── app
-│   ├── web
-│   └── application.rb
+│   ├── api
+│   ├── app
+│   ├── web
+│   └── application.rb
 ├── step_definitions
-│   ├── api
-│   ├── app
-│   └── web
+│   ├── api
+│   ├── app
+│   └── web
 ├── load
 ├── lib
-│   ├── reporting
-│   ├── viewer
+│   ├── reporting
+│   ├── viewer
 ├── scripts
-│   ├── docker
-│   │   ├── Dockerfile
-│   │   └── docker.sh
-│   └── mobile
-│       └── run_appium.sh
+│   ├── docker
+│   │   ├── Dockerfile
+│   │   └── docker.sh
+│   └── mobile
+│       └── run_appium.sh
 ├── docker-compose.yml
 ├── Rakefile
 └── wiki
